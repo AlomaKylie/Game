@@ -29,6 +29,7 @@ while True:
             print("Player", player, ":", "CPU", computer)
             print("CPU Win!")
             print("")
+            break
         else:
             print("Player", player, ":", "CPU", computer)
             print("You Win!")
@@ -39,6 +40,7 @@ while True:
             print("Player", player, ":", "CPU", computer)
             print("CPU Win!")
             print("")
+            break
         else:
             print("Player", player, ":", "CPU", computer)
             print("You Win!")
@@ -49,6 +51,7 @@ while True:
             print("Player", player, ":", "CPU", computer)
             print("CPU Win!")
             print("")
+            break
         else:
             print("Player", player, ":", "CPU", computer)
             print("You Win!")
